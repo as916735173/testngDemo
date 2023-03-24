@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="testngDemo:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/testngDemo_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="testngDemo/javaeeApplication/javaEEApplication" />
+      <element id="directory" name="web.war">
+        <element id="artifact" artifact-name="testngDemo:war exploded" />
+      </element>
+    </root>
+  </artifact>
+</component>
