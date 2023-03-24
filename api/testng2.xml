@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<suite name="xxxx项目" parallel="false">
+    <test name="xx模块2">
+        <classes>
+            <class name="com.fhl.testng.Demo3" />
+            <class name="com.fhl.testng.Demo4" />
+        </classes>
+    </test>
+</suite>

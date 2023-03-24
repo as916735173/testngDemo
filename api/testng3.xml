@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<suite name="xxxx项目" parallel="false">
+    <test name="xx模块2">
+        <classes>
+            <class name="com.fhl.testng.Demo5" />
+        </classes>
+    </test>
+    <parameter name="firstName" value="尼古拉斯"/>
+    <parameter name="lastName" value="凯奇"/>
+</suite>
